@@ -24,4 +24,4 @@ Data source: [Care needs of people in aged care dataset from the Aged Care Quali
 
 ## Next steps
 - Publish the dashboard in PowerBI (after acquiring PowerBI Premium License). 
-- Since the care indicators have changed from 2023, the next step would be to amalgamage the new data into the analysis. 
+- Since the care indicators have changed from 2023, the next step would be to amalgamate the new data into the analysis. 
