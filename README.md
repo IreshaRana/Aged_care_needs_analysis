@@ -13,8 +13,11 @@ Data source: [Care needs of people in aged care dataset from the Aged Care Quali
 - Complex Health Care (CHC)
 
 ## Analysis
-- Latest status of ADL, BEH AND CHC in terms of different need levels (high, medium, low and null)
-- Changes to ADL, BEH and CHC in terms of different need levels over the years (2008-2022) 
+- Areas of analysis
+  - Changes to ADL, BEH and CHC in terms of different need levels over the years (2008-2022) - line charts in R
+  - Latest status of ADL, BEH AND CHC in terms of different need levels (high, medium, low and null) -pie charts in PowerBI
+
+- Code (in R) : [Aged care needs analysis](Aged_Care_Needs_Analysis.ipynb)
 
 ## Dashboard in PowerBI
 - I created a PowerBI dashboard to explore trends and insights into above mentioned care needs of Australian aged care recipients across different states, age groups, and sexes.
